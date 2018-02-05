@@ -15,7 +15,7 @@ The expectation for this exercise is that you use Spark 2.x with Scala, Python, 
 
 Please complete as much of the assignment as you have time for. How long you had time to spend on the challenge and your experience will be considered. Have some fun with it!
 
-** Asif's solution
+**Asif's solution**
 
 1. The solution is presented as an iPython notebook.
 2. The intermediate parquet files are not uploaded in this repo because of their size. However, if you run the code, those files will be generated.
