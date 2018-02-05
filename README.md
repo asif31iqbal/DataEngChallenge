@@ -14,3 +14,9 @@ The expectation for this exercise is that you use Spark 2.x with Scala, Python, 
 7. *Bonus*: Conduct any additional analysis that might give a hint about the behaviour of the IDFAs in the data set.
 
 Please complete as much of the assignment as you have time for. How long you had time to spend on the challenge and your experience will be considered. Have some fun with it!
+
+** Asif's solution
+
+1. The solution is presented as an iPython notebook.
+2. The intermediate parquet files are not uploaded in this repo because of their size. However, if you run the code, those files will be generated.
+3. The ipython notebook has solution steps of the main problem and also a bit of additional analysis. For shortage of time, the analysis is of course not claiming to be complete :).
